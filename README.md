@@ -10,7 +10,7 @@ Fig.1 shows one of the photographic plate images as captured by Gorsky. There ar
 
 Fig. 2 shows the results obtained:
 
-![alt text](https://github.com/deepankarc/prokudin-gorsky-image-colorization/tree/master/images/ex1.jpg "Example 1 - Photographic Plate Image")
+![alt text](https://github.com/deepankarc/prokudin-gorsky-image-colorization/tree/master/images/ex1.jpg?raw=true "Example 1 - Photographic Plate Image")
 Fig.1
 
 ![alt text](https://github.com/deepankarc/prokudin-gorsky-image-colorization/tree/master/images/res1.jpg "Example 1 - Photographic Plate Image")
