@@ -8,13 +8,8 @@ Fig.1 shows one of the photographic plate images as captured by Gorsky while Fig
 2. Image pyramid construction  
 3. Alignment and colorization  
 
-![ScreenShot](/images/ex1.jpg)
-
-![alt text](https://github.com/deepankarc/prokudin-gorsky-image-colorization/tree/master/images/ex2.jpg "Example 2 - Photographic Plate Image")
+![ScreenShot](/images/ex1.jpg "Example 1 - Photographic Plate Image")     ![alt text](/images/ex2.jpg "Example 2 - Photographic Plate Image")
 Fig.1
 
-
-![alt text](https://github.com/deepankarc/prokudin-gorsky-image-colorization/tree/master/images/res1.jpg "Example 1 - Photographic Plate Image")
-
-![alt text](https://github.com/deepankarc/prokudin-gorsky-image-colorization/tree/master/images/res2.jpg "Example 1 - Photographic Plate Image")
+![alt text](/images/res1.jpg "Example 1 - Colored Image") ![alt text](/images/res2.jpg "Example 2 - Colored Image")
 Fig.2
