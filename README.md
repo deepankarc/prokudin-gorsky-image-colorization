@@ -1,6 +1,6 @@
 # Prokudin Gorsky Image Colorization
 
-Automatic colorization of the [Prokudin Gorsky](https://en.wikipedia.org/wiki/Sergey_Prokudin-Gorsky) photographic plate images. Sergey Prokudin-Gorsky took vaarious photographs documenting the Russian Empire during the early 1900s. He took these on photographic plates which relied on the idea of [Three-Color Photography](https://en.wikipedia.org/wiki/Color_photography#Three-color_processes). 
+Automatic colorization of the [Prokudin Gorsky](https://en.wikipedia.org/wiki/Sergey_Prokudin-Gorsky) photographic plate images. Sergey Prokudin-Gorsky took various photographs documenting the Russian Empire during the early 1900s. He took these on photographic plates which relied on the idea of [Three-Color Photography](https://en.wikipedia.org/wiki/Color_photography#Three-color_processes). 
 
 Fig.1 shows one of the photographic plate images as captured by Gorsky while Fig. 2 shows the obtained results. There are essentially three parts involved in the process of their colorization:  
 
