@@ -1,3 +1,4 @@
+import numpy as np
 import get_similarity as gsim
 
 # align the channels

@@ -1,7 +1,5 @@
 import sys
 import numpy as np
-import cv2
-from skimage import feature
 import matplotlib.pyplot as mp_plt
 import time
 import preprocess_image
